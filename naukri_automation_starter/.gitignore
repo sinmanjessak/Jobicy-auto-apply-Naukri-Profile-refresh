@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/*
+logs/*
+playwright/.auth/
+.browser-profile/
+
+.pytest_cache/
